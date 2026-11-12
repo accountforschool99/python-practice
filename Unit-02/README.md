@@ -48,6 +48,8 @@ Each row links to the problem statement. IDs follow `Unit-Chapter-Question`.
 | [02-04-04](Chapter-04/02-04-04.md) | Fizz Buzz Single Number    |
 | [02-04-05](Chapter-04/02-04-05.md) | Federal Tax Bracket Finder |
 | [02-04-06](Chapter-04/02-04-06.md) | Traffic Lights |
+| [02-04-07](Chapter-04/02-04-07.md) | Leap Year|
+| [02-04-08](Chapter-04/02-04-08.md) | Valid Triangles|
 
 ## Notes
 
