@@ -22,53 +22,61 @@ Each row links to the problem statement. IDs follow `Unit-Chapter-Question`.
 | ---------------------------------- | ------- |
 | [03-02-01](Chapter-02/03-02-01.md) | Receipt |
 
-## Chapter 3 - `for` loops and pattern printing
+## Chapter 3 - `for` loops and numbers
 
-| Problem                            | Title              |
-| ---------------------------------- | ------------------ |
-| [03-03-01](Chapter-03/03-03-01.md) | Meow Meow     |
-| [03-03-02](Chapter-03/03-03-02.md) | Luna's Leaps     |
-| [03-03-03](Chapter-03/03-03-03.md) | Happy Holidays     |
-| [03-03-04](Chapter-03/03-03-04.md) | Factorials         |
-| [03-03-05](Chapter-03/03-03-05.md) | Asterisk Pyramid   |
-| [03-03-06](Chapter-03/03-03-06.md) | 101 Pyramid (easy) |
-| [03-03-07](Chapter-03/03-03-07.md) | 101 Pyramid (hard) |
+| Problem                            | Title                |
+| ---------------------------------- | ------------------   |
+| [03-03-01](Chapter-03/03-03-01.md) | Meow Meow            |
+| [03-03-02](Chapter-03/03-03-02.md) | Luna's Leaps         |
+| [03-03-03](Chapter-03/03-03-03.md) | Happy Holidays       |
+| [03-03-04](Chapter-03/03-03-04.md) | Factorials           |
+| [03-03-05](Chapter-03/03-03-05.md) | Asterisk Pyramid     |
+| [03-03-06](Chapter-03/03-03-06.md) | 101 Pyramid (easy)   |
+| [03-03-07](Chapter-03/03-03-07.md) | 101 Pyramid (hard)   |
 | [03-03-08](Chapter-03/03-03-08.md) | 101 Pyramid (harder) |
 
-## Chapter 4 - Loop control: repeat prompts, `break`, `continue`, `random`
+## Chapter 4 - `for` loops and strings
+| Problem                            | Title                       |
+| ---------------------------------- | ------------------          |
+| [03-04-01](Chapter-04/03-04-01.md) | Print All String Characters |
+| [03-04-02](Chapter-04/03-04-02.md) | Print Characters No Spaces  |
+| [03-04-03](Chapter-04/03-04-03.md) | Every Other Character       |
+| [03-04-04](Chapter-04/03-04-04.md) | Space Finder                |
+
+## Chapter 5 - Loop control: repeat prompts, `break`, `continue`, `random`
 
 | Problem                            | Title                          |
 | ---------------------------------- | ------------------------------ |
-| [03-04-01](Chapter-04/03-04-01.md) | Adding Numbers Looped (easy)   |
-| [03-04-02](Chapter-04/03-04-02.md) | Adding Numbers Looped (medium) |
-| [03-04-03](Chapter-04/03-04-03.md) | Adding Numbers Looped (hard)   |
+| [03-05-01](Chapter-05/03-05-01.md) | Adding Numbers Looped (easy)   |
+| [03-05-02](Chapter-05/03-05-02.md) | Adding Numbers Looped (medium) |
+| [03-05-03](Chapter-05/03-05-03.md) | Adding Numbers Looped (hard)   |
 
-## Chapter 5 - Nested loops
+## Chapter 6 - Nested loops
 
 | Problem                            | Title                     |
 | ---------------------------------- | ------------------------- |
-| [03-05-01](Chapter-05/03-05-01.md) | Asterisk Rectangle (easy) |
-| [03-05-02](Chapter-05/03-05-02.md) | Multiplication Table      |
-| [03-05-03](Chapter-05/03-05-03.md) | Number Triangle (easy)    |
-| [03-05-04](Chapter-05/03-05-04.md) | Prime Numbers Looped      |
-| [03-05-05](Chapter-05/03-05-05.md) | Number Triangle (hard)    |
-| [03-05-06](Chapter-05/03-05-06.md) | Asterisk Rectangle (hard) |
+| [03-06-01](Chapter-06/03-06-01.md) | Asterisk Rectangle (easy) |
+| [03-06-02](Chapter-06/03-06-02.md) | Multiplication Table      |
+| [03-06-03](Chapter-06/03-06-03.md) | Number Triangle (easy)    |
+| [03-06-04](Chapter-06/03-06-04.md) | Prime Numbers Looped      |
+| [03-06-05](Chapter-06/03-06-05.md) | Number Triangle (hard)    |
+| [03-06-06](Chapter-06/03-06-06.md) | Asterisk Rectangle (hard) |
 
-## Chapter 6 - Looping over strings: ciphers
+## Chapter 7 - Looping over strings: ciphers
 
 | Problem                            | Title                 |
 | ---------------------------------- | --------------------- |
-| [03-06-01](Chapter-06/03-06-01.md) | Secret Agent Messages |
-| [03-06-02](Chapter-06/03-06-02.md) | Enhanced Agent Cipher |
+| [03-07-01](Chapter-07/03-07-01.md) | Secret Agent Messages |
+| [03-07-02](Chapter-07/03-07-02.md) | Enhanced Agent Cipher |
 
-## Chapter 7 - Mixed loop problems
+## Chapter 8 - Mixed loop problems
 
 | Problem                            | Title              |
 | ---------------------------------- | ------------------ |
-| [03-07-01](Chapter-07/03-07-01.md) | Fibonacci Sequence |
-| [03-07-02](Chapter-07/03-07-02.md) | Street Fighter     |
-| [03-07-03](Chapter-07/03-07-03.md) | Times Table        |
-| [03-07-04](Chapter-07/03-07-04.md) | Scaled Up Icons    |
+| [03-08-01](Chapter-08/03-08-01.md) | Fibonacci Sequence |
+| [03-08-02](Chapter-08/03-08-02.md) | Street Fighter     |
+| [03-08-03](Chapter-08/03-08-03.md) | Times Table        |
+| [03-08-04](Chapter-08/03-08-04.md) | Scaled Up Icons    |
 
 ## Notes
 
