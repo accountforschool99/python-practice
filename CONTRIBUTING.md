@@ -115,7 +115,7 @@ There are two lines of input. Each line contains a non-negative integer less tha
 
 
 ## Output Specification  
-Provides the output specifications. 
+Provides the Output Specification. 
 
 Outputs are denoted in inline code span. For example:
 
